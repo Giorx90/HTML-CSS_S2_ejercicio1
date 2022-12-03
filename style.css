@@ -1,5 +1,7 @@
 body {
     margin: 0;
+    max-width: auto;
+    max-height: auto;
 }
 header {
     background-color: white;
@@ -28,8 +30,8 @@ header {
     padding: 5px;
 }
 main {
-    height: 500px;
-    padding: 25%;
+    height: auto;
+    padding: 15%;
 }
 
 .div_form {
